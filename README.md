@@ -35,7 +35,8 @@ After importing, review the app and publish it if needed.
 
 | Desktop Design | Tablet Design | Phone Design |
 |---------------|--------------|--------------|
-| <img src="screenshots/desktop-design.png" height="400"/> | <img src="screenshots/tablet-design.png" height="400"/> | <img src="screenshots/phone-design.png" height="400"/> |
+| <img src="screenshots/desktop-design-p1.png" height="400"/> | <img src="screenshots/tablet-design-p1.png" height="400"/> | <img src="screenshots/mobile-design-p1.png" height="400"/> |
+| <img src="screenshots/desktop-design-p2.png" height="400"/> | <img src="screenshots/tablet-design-p2.png" height="400"/> | <img src="screenshots/mobile-design-p2.png" height="400"/> |
 ---
 
 ## 📊 Features
